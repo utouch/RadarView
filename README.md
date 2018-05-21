@@ -1,7 +1,7 @@
 
 最近闲来无事，就仿着王者荣耀和英雄联盟助手的战力七星图自定义了一个战力雷达图，又叫蜘蛛网图。雷达图的绘制比较简单，主要用到路径类`Path`的`Path.lineTo()`及`Path.moveTo()`和数学三角函数的一些基本知识，代码中注视比较清晰，现在看一下最终效果图：
+========
 
-==========  
 <img src="https://github.com/utouch/RadarView/blob/master/pic/1.png" width="32%">     <img src="https://github.com/utouch/RadarView/blob/master/pic/2.png" width="32%">
 
 License
