@@ -5,13 +5,7 @@ RadarView
 
 效果预览
 ==========  
-<img src="https://github.com/utouch/RadarView/pic/1.png" width="32%"><img src="https://github.com/utouch/RadarView/pic/2.png" width="32%">
-
-感谢
-==========  
-[InputCodeLayout](https://github.com/Airsaid/InputCodeLayout) 
-
-[https://stackoverflow.com/questions/4886858/android-edittext-deletebackspace-key-event](https://stackoverflow.com/questions/4886858/android-edittext-deletebackspace-key-event)
+<img src="https://github.com/utouch/RadarView/blob/master/pic/1.png" width="32%"><img src="https://github.com/utouch/RadarView/blob/master/pic/2.png" width="32%">
 
 License
 ==========
