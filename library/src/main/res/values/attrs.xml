@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="RadarView">
+        <attr name="num" format="integer|reference"/>
+        <attr name="radarGridColor" format="color|reference"/>
+        <attr name="radarGridStrokeWidth" format="dimension|reference"/>
+        <attr name="radarLineColor" format="color|reference"/>
+        <attr name="radarLineStrokeWidth" format="dimension|reference"/>
+        <attr name="circleColor" format="color|reference"/>
+        <attr name="circleWidth" format="dimension|reference"/>
+        <attr name="layerColor" format="color|reference"/>
+        <attr name="android:textSize" format="color|reference"/>
+        <attr name="android:textColor" format="dimension|reference"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="radarTextSize">15sp</dimen>
+    <dimen name="radarGridWidth">1dp</dimen>
+    <dimen name="radarLineStrokeWidth">1dp</dimen>
+    <dimen name="circleWidth">0dp</dimen>
+    <integer name="num">3</integer>
+</resources>

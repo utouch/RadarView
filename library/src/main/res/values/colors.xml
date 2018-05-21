@@ -1,0 +1,7 @@
+<resources>
+   <color name="radarGridColor">#CCC</color>
+   <color name="radarLineColor">#CCC</color>
+   <color name="circleColor">#CCC</color>
+   <color name="layerColor">#CCC</color>
+   <color name="radarTextColor">#CCC</color>
+</resources>
